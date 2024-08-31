@@ -1,0 +1,10 @@
+{
+	"Author": "MegaPiggy",
+	"Name": "Rig Repair",
+	"ModGUID": "MegaPiggy.RigRepair",
+	"Version": "0.0.1",
+	"ModAssembly": "RigRepair.dll",
+	"MinWinchVersion": "0.5.0",
+	"ApplyPatches": true,
+	"Entitlements": [ "IRON_RIG" ]
+}
